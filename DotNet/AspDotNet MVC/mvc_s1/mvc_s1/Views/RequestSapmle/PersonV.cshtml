@@ -1,0 +1,16 @@
+﻿@Model Person
+@{
+    ViewBag.Title = "PersonV";
+}
+<div>
+    @using (Html.BeginForm())
+    {
+        <input type="text" name="@Model.Name" /><br />
+        <input type="text" name="@Model.Age" /><br />
+        <input type="submit" value="submit" />
+    }
+</div>
+
+<h2>@ViewBag.Name</h2>
+<h2>@ViewBag.Age</h2>
+
