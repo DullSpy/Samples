@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttachedRoutedEvent", "WpfEasyStudy\AttachedRoutedEvent.csproj", "{00F9212A-63B0-437F-A568-5743DD1EA5C1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttachedRoutedEvent", "AttachedRoutedEvent\AttachedRoutedEvent.csproj", "{00F9212A-63B0-437F-A568-5743DD1EA5C1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
